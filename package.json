@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "lint:fix": "prettier --write .",
-    "lint:check": "prettier --check ."
+    "lint:check": "prettier --check .",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
